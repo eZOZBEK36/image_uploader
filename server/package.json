@@ -1,0 +1,25 @@
+{
+	"name": "image-uploader-api",
+	"version": "1.0.0",
+	"description": "API for Image-Uploader",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "E'zozbek <ezozbekrasulov789@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.2",
+		"express-fileupload": "^1.2.1",
+		"mongoose": "^6.1.6",
+		"request-progress": "^3.0.0"
+	},
+	"engines": {
+		"node": ">=16.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eZOZBEK36/image-uploader"
+	}
+}
