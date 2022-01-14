@@ -52,6 +52,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 -  [React](https://reactjs.org/)
 -  [Axios](https://axios-http.com/)
+-  [Express](https://expressjs.com/)
 
 ## Features
 
@@ -86,5 +87,5 @@ $ npm start
 
 ## Contact
 
--  Website [your-website.com](https://{your-web-site-link})
+-  Website [Image Uploader](https://img-upld.netlify.app/)
 -  GitHub [eZOZBEK36](https://github.com/eZOZBEK36/image_uploader.git)
